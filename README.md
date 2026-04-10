@@ -50,7 +50,7 @@ Palabras clave: Control; Controlador PI; Musculoesqueletico; Tratamiento; Caso
 2. Modelo de Simulink \[.slx].
 3. Archivos de Spyder \[.py].
 4. Imagen con los parámetros del controlador.
-5. Imágenes de las simulaciones \[.pdf y .png].
+5. Imágenes de las simulaciones \
 6. Evidencia del análisis matemático: función de transferencia, error en estado estacionario y estabilidad en lazo abierto.
 7. Modelo fisiologico en biorender
 
